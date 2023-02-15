@@ -1,4 +1,4 @@
-![Banner](Partada_YouTube.png)
+![Banner](main.png)
 
 ---
 
